@@ -3,4 +3,10 @@ first
 
 second 
 
+<<<<<<< HEAD
 third
+||||||| 4f1facf
+
+=======
+feat_branch third content
+>>>>>>> feat_branch
